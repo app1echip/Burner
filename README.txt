@@ -1,4 +1,4 @@
-simple CEF-based web browser
+simple cef-based web browser
 
 nuget dependency
 * CefSharp.WinForms v75.1.143
