@@ -1,4 +1,4 @@
-Developed with Visual Studio
+Simple CEF-based web browser.
 
 NuGet Dependency
 * CefSharp.WinForms v75.1.143
